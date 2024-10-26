@@ -4,4 +4,8 @@ opencv-python-headless==4.6.0.66  # Use a compatible version
 pillow
 numpy
 torch  # Specify a version if needed, e.g., torch==1.13.0
+libgl1-mesa-glx
+libgl1-mesa-dev
+libsm6
+libxrender1
 
