@@ -4,5 +4,6 @@ opencv-python-headless
 pillow>=8.0.0  
 numpy>=1.21.0  
 py-opencv
+torch==2.0.0 
 
 
