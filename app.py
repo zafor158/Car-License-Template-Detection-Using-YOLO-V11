@@ -6,8 +6,8 @@ from PIL import Image
 from ultralytics import YOLO
 
 # Load your trained YOLO model
-model_path = "/content/best_model.pt"
-model = YOLO(model_path)
+# model_path = "/content/best_model.pt"
+model = YOLO(best_model.pt)
 st.title("License Plate Detection App")
 
 # Sidebar for options
