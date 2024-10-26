@@ -1,8 +1,8 @@
 streamlit
-ultralytics==8.3.23
+ultralytics
 opencv-python-headless
-pillow>=3.10.12 
-numpy>=1.21.0  
+pillow
+numpy
 py-opencv
 torch
 
