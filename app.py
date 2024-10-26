@@ -8,6 +8,7 @@ from ultralytics import YOLO
 # Load your trained YOLO model
 model_path = "zafor158/Car-License-Template-Detection-Using-YOLO-V11/best_model.pt"
 model = YOLO(model_path)
+
 st.title("License Plate Detection App")
 
 # Sidebar for options
