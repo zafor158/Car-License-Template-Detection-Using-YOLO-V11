@@ -1,9 +1,8 @@
+
+
 streamlit==1.39.0
-ultralytics== 8.3.23
-opencv-python-headless==1.26.4
+ultralytics==8.3.23
+opencv-python-headless==4.6.0.66  # Update to a compatible version
 pillow
 numpy
-py-opencv
 torch
-
-
